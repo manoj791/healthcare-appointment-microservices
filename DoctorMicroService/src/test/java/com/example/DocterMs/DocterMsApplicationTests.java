@@ -1,0 +1,13 @@
+package com.example.DocterMs;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class DocterMsApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
